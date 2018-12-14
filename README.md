@@ -1,5 +1,5 @@
 # python-backup-handler
-A python script that automates backups of a single file.
+A python script that automates backups of a single file.  
 Supports multiple output files with a given interval between them.
 
 # Instructions
