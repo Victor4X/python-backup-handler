@@ -4,6 +4,5 @@ Supports multiple output files with a given interval between them.
 
 # Instructions
 
-Place 'backup-handler.py' in working directory and run.  
-
-The script will ask for settings and backups will be created in 'dir/backups/*'
+* Place 'backup-handler.py' in working directory and run.  
+* The script will ask for settings and backups will be created in 'dir/backups/*'
